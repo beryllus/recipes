@@ -47,3 +47,7 @@ a:visited {
 ul li {
     margin: 16px 0;
 }
+
+ul {
+    list-style: square;
+}
