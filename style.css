@@ -29,3 +29,7 @@ a:visited {
     text-decoration: none;
     font-weight: bold;
 }
+
+ul li {
+    margin: 16px 0;
+}
